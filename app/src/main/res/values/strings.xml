@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">SQLiteDatabase</string>
+    <string name="text_view_id">ID</string>
+    <string name="hint_id">The contact\'s ID</string>
+    <string name="text_view_name">Name</string>
+    <string name="hint_name">Fill in your name here</string>
+    <string name="text_view_email">Email</string>
+    <string name="email_hint">Fill in your email address here</string>
+    <string name="button_add">Add a Contant</string>
+    <string name="button_get_a_contact">Get a Contact</string>android:layout_width=""
+        android:layout_height=""
+    <string name="button_get_all_contact">Get All Contacts</string>
+    <string name="buttton_update_a_contact">Update a Contact</string>
+    <string name="button_delete_a_contact">Delete a Contact</string>
+    <string name="button_get_all_contacts_from_assets">Get All Contacts from Assets</string>
+</resources>
